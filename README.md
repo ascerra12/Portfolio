@@ -8,4 +8,4 @@ US_Data_Cleaning.R:
 This R script is used to read in the large dataset in chunks of 100,000 rows at a time and store them into files that contain just the four columns that pertain to this project making the files more managable.
 
 US_Data_Visualization:
-This R script reads in the managable files and concatenates them into one large file where data analysis is then performed. The Data is catagorized into 51 different Regions.
+This R script reads in the managable files and concatenates them into one large file where data analysis and visualization is then performed.
